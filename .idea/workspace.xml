@@ -44,11 +44,11 @@
   </component>
   <component name="RunManager" selected="Application.volatileAtomicDemo">
     <configuration name="volatileAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.juc.volatileAtomicDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.java.juc.volatiles.volatileAtomicDemo" />
       <module name="JucKnowledge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.juc.*" />
+          <option name="PATTERN" value="com.java.juc.volatiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
